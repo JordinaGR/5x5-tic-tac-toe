@@ -19,7 +19,3 @@ With the hard version, the machine chooses its moves following some steps in ord
 6. Same as step one, but if the computer is at 3 moves of winning.
 
 7. Same as step 6 but with the player.
-
-Following those steps, the computer plays kind of agresive and it has chances to win, not only defend and to get a tie.
-
-Thanks!
